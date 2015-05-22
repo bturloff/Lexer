@@ -1,0 +1,36 @@
+﻿:;{}[](),
++-*/<>=!&|0b0!=0b1010==0b0
+0b123;0bba
+123e1+123e+12+123e-12+123.;
+123.e12.12*00123.123
+0/123/-123/+123
+00:001234567:098
+0x0,0xa,0x1,0x123abc,0x789ABF
+0x, 0x123efg, 0xARIZONA
+if else while switch case return int float void char string
+boolean true false print
+If=Else=While=Switch=Case=Return=Int=Float=Void=Char=String
+Boolean=True=False=Print=CSE_340=$123=_abc=_=$
+^asd
+.foo
+2014August
+"Hello"
+"Hello World" "Hello" "World"
+"Hello"+"Hello"
+" "
+"\;\,"
+":;{}[](),"
+"He said 'fufufu'"
+"asdasdasd"""
+"Hello World This is an error
+'a'
+' '
+'\t'
+'1'
+'!'
+'$'
+'\;'
+'\\'
+'\'
+'aa'
+'foo
