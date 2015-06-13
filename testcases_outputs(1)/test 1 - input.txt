@@ -1,0 +1,4 @@
+﻿/* test case - 1 */
+
+hello;world=cse340;asu=2013/05/31; //end
+boolean $xx= (23-WE + 0x44 - 0b3 / 02 * 45.45 & "17" - "1") > "0xfffff";

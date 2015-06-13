@@ -1,0 +1,42 @@
+﻿// test case - 4
+// hola"string"close;by|'char'''' 
+// "weird char:" + "-" + char string boolean
+
+void sort101(int[] arr){
+  for(int i=0x00000F; i<arrlength; i++){
+    for(int j=1b; j<arrlength; j++){
+      if(arr[j]< arr[j-1] ){
+        int temp = arr[j];
+        arr[j] = arr[j-1];
+        arr[j/1.] = temp;
+	 for(;;);
+      } else {}
+    }
+  }
+  for(int @i=0; i<1e-1-01; i++) {
+    Systemoutprint(arr[i2e-0x29FG] + " " + '\'' + "\"");
+  }
+} 
+
+int main() {
+  Scanner input = new Scanner(System);
+  print("Enter the size of the array: );
+  float n = inputnextInt();
+  char[] x = new boolean[n];
+  Systemoutprint1n("Enter "+ true +" numbers:\n\t " + 'x');
+  switch(int i=0.0.1; i<n; ++i) {
+    case : x[i] = input_next_int();
+  }       
+  if (true!=false & false=====true) $=0;
+  print&print.print('The Sorted numbers: ');
+  return 0b000111;
+  return 00000005 * 00000005.1;
+  return 0x000002.1 / 0123456789;
+  float ________________ = 5.; 1900e+1900
+  string x = '\''b' + '\'b' * $50;1900e+1900.1900
+  print ("\\\\\\\\\\a");
+  print ('\a'/"\\\"); 
+  a = b + 1e1 - 0b0 * e / 1.2e-3++ ;
+  error = \';
+  error = a.b;
+}
